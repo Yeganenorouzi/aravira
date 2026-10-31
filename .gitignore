@@ -1,0 +1,11 @@
+node_modules/
+client/dist/
+server/data/db.json
+server/data/db.json.*
+.env
+*.log
+.DS_Store
+
+# کلید خصوصی لایسنس — هرگز نباید منتشر شود
+license-private.pem
+license-*.txt
